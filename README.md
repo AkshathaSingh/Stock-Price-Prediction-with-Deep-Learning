@@ -1,6 +1,6 @@
 ## Stock Price Prediction using LSTM Recurrent Neural Networks
 ### Overview
-In this project, we'll build an LSTM Recurrent Neural Network to predict the Adjusted Closing stock price of the Big 4 Tech companies, 
+In this project, we'll build a prediction model to predict the Adjusted Closing stock price of the Big 4 Tech companies, 
 Google, Amazon, Facebook and Apple.
 
 We'll be doing the following steps to complete our project:
